@@ -1,0 +1,6 @@
+Manana nos enfocaremos en su vida laboral.
+
+Prueba de Git rm o Git Reset
+
+
+test rm rm rm
