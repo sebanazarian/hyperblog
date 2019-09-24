@@ -1,4 +1,5 @@
 # hyperblog
 Blog de Prueba
 
-Readme Mejorado:
+Readme Mejorado
+Incluye Ejemplos
